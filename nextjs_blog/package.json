@@ -1,0 +1,23 @@
+{
+  "name": "nextjs_blog",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/next": "^9.0.0",
+    "@types/react": "^18.2.61",
+    "gray-matter": "^4.0.3",
+    "mongodb": "^6.4.0",
+    "next": "14.1.1",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hot-toast": "^2.4.1",
+    "react-markdown": "^9.0.1",
+    "sharp": "^0.33.2"
+  }
+}
